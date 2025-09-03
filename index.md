@@ -1,17 +1,4 @@
 ---
 title: Home
-layout: default
+title: GaryLovePeace
 ---
-
-# 我的第一篇博客
-
-欢迎来到我的 GitHub 博客！🎉  
-
-这是我用 GitHub Pages 创建的第一个页面。  
-以后我会在这里写一些关于 **深度学习** 和 **编程学习** 的笔记。
-
----
-
-## 关于我
-- 学习方向：Deep Learning / Python
-- 兴趣：写博客、学习新技术
