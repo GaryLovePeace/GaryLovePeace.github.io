@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "深度学习笔记（一）：crossentropy"
-date:   2025-09-03 10:00:00 +0800
+title: "深度学习笔记（一）：crossentropy"
+date: 2025-09-02 12:00:00 +0000
 categories: DeepLearning
 ---
 
-<img width="2007" height="810" alt="image" src="https://github.com/user-attachments/assets/ff3087ca-c652-4903-be72-d0bb28118958" />
+![交叉熵图1](https://github.com/user-attachments/assets/d6552967-793d-4def-9125-a066f2743cf7)
 
-<img width="1589" height="510" alt="image" src="https://github.com/user-attachments/assets/3fabcce0-a2b0-4f9e-9b11-8267ede4db24" />
+![交叉熵图2](https://github.com/user-attachments/assets/e4dd0f0c-c1de-4b7e-ab2e-e1c2e4b1d557)
 
-<img width="1686" height="1098" alt="image" src="https://github.com/user-attachments/assets/285f4499-ab7c-40af-a12b-b53d347be9be" />
+![交叉熵图3](https://github.com/user-attachments/assets/a5854722-3a4d-48c8-a439-a1f0e5fa7b42)
 
-<img width="1765" height="861" alt="image" src="https://github.com/user-attachments/assets/9d4b1aa9-a649-4fac-8950-699cec87f1e9" />
-
+![交叉熵图4](https://github.com/user-attachments/assets/e6096360-abb1-4395-a256-4019080ed232)
